@@ -1,4 +1,5 @@
 # Zomato Data Analysis
+## Note: This project was originally completed in January 2024. Uploaded to GitHub in **May 2025** for portfolio visibility.
 
 This project explores the Zomato restaurant dataset to uncover trends in ratings, cuisines, pricing, and locations. It uses Python libraries like pandas, matplotlib, and seaborn to clean, analyze, and visualize the data.
 
